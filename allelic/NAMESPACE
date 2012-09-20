@@ -1,0 +1,2 @@
+useDynLib(allelic)
+export( allelic.exact.test )
